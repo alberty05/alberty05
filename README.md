@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### :woman_technologist: About Me :
+
+- 🔭 I’m currently studying in NUST MISIS 
+- 🌱 I’m currently learning Data Engineering
 <!--
 **alberty05/alberty05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
